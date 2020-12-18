@@ -3,7 +3,7 @@ from datetime import datetime
 import traceback
 import time
 
-username = "Siriachung"
+username = "paleasdeath"
 
 url = "https://api.pushshift.io/reddit/{}/search?limit=1000&sort=desc&author={}&before="
 
